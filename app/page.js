@@ -10,8 +10,8 @@ const Home = () => {
           className="text-6xl
         md:text-[80px] font-bold my-4 tracking-wider headeline_text"
         >
-          Creative <br />
-          Thoughts <br />
+          Crafting <br />
+          Ideas into <br />
           Agency.
         </h1>
         <p className="py-4 text-xl text-gray-500">
